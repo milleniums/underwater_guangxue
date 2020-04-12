@@ -6,5 +6,4 @@
 
 4. 将不同尺度的结果融合并进行后处理（code/ensemble）：`ensemble.py`融合`atss_r50`和`atss_r101`各个尺度的答案，`transform.py`矫正越界的bbox位置
 
-本次光学比赛B榜成绩0.48211259，使用了6个模型，模型的网盘地址为：
-链接: https://pan.baidu.com/s/1fEweftyL62xl0O1BqJDDnQ 提取码: tw4g
+本次光学比赛B榜成绩0.48211259，使用了6个模型，模型的网盘地址为： 链接: https://pan.baidu.com/s/1fEweftyL62xl0O1BqJDDnQ 提取码: tw4g
